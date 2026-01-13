@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6471706F-8120-416B-A789-EA78A2710690"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2ADB8276-6A70-405F-AD01-A530FC6CB261"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMortyCharacterApp/Search/ViewModel/CharacterSearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "bindSearch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7C19A3F-2764-47CD-A670-7A986161D47D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMortyCharacterApp/Search/ViewModel/CharacterSearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "performSearch(text:status:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5F20FE3-A01A-472F-98AF-2AB55119B924"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMortyCharacterApp/Search/ViewModel/CharacterSearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "performSearch(text:status:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C5F20FE3-A01A-472F-98AF-2AB55119B924 - 8bdc2adcbce75557"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 () async -&gt; () in RickAndMortyCharacterApp.CharacterSearchViewModel.performSearch(text: Swift.String, status: RickAndMortyCharacterApp.CharacterStatus) -&gt; ()"
+                  moduleName = "RickAndMortyCharacterApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Hasan/RickAndMortyCharacterApp/RickAndMortyCharacterApp/Search/ViewModel/CharacterSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56">
+               </Location>
+               <Location
+                  uuid = "C5F20FE3-A01A-472F-98AF-2AB55119B924 - 6d978af77baba6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 () async -&gt; () in RickAndMortyCharacterApp.CharacterSearchViewModel.performSearch(text: Swift.String, status: RickAndMortyCharacterApp.CharacterStatus) -&gt; ()"
+                  moduleName = "RickAndMortyCharacterApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Hasan/RickAndMortyCharacterApp/RickAndMortyCharacterApp/Search/ViewModel/CharacterSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56">
+               </Location>
+               <Location
+                  uuid = "C5F20FE3-A01A-472F-98AF-2AB55119B924 - ef28716a92be8951"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 () async -&gt; () in RickAndMortyCharacterApp.CharacterSearchViewModel.performSearch(text: Swift.String, status: RickAndMortyCharacterApp.CharacterStatus) -&gt; ()"
+                  moduleName = "RickAndMortyCharacterApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Hasan/RickAndMortyCharacterApp/RickAndMortyCharacterApp/Search/ViewModel/CharacterSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56">
+               </Location>
+               <Location
+                  uuid = "C5F20FE3-A01A-472F-98AF-2AB55119B924 - 5d61a44d9fa22b52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 () async -&gt; () in RickAndMortyCharacterApp.CharacterSearchViewModel.performSearch(text: Swift.String, status: RickAndMortyCharacterApp.CharacterStatus) -&gt; ()"
+                  moduleName = "RickAndMortyCharacterApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Hasan/RickAndMortyCharacterApp/RickAndMortyCharacterApp/Search/ViewModel/CharacterSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C289D02E-E1E4-40E6-9798-4BE04AD35ED5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMortyCharacterApp/Network/APIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "send(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C289D02E-E1E4-40E6-9798-4BE04AD35ED5 - 997f505d8b928502"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for RickAndMortyCharacterApp.APIClient.send&lt;&#x3c4;_0_0 where &#x3c4;_0_0: RickAndMortyCharacterApp.APIRequest&gt;(&#x3c4;_0_0) async throws -&gt; &#x3c4;_0_0.Response"
+                  moduleName = "RickAndMortyCharacterApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Hasan/RickAndMortyCharacterApp/RickAndMortyCharacterApp/Network/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35">
+               </Location>
+               <Location
+                  uuid = "C289D02E-E1E4-40E6-9798-4BE04AD35ED5 - 7cc06e6bfce7d02f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for RickAndMortyCharacterApp.APIClient.send&lt;&#x3c4;_0_0 where &#x3c4;_0_0: RickAndMortyCharacterApp.APIRequest&gt;(&#x3c4;_0_0) async throws -&gt; &#x3c4;_0_0.Response"
+                  moduleName = "RickAndMortyCharacterApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Hasan/RickAndMortyCharacterApp/RickAndMortyCharacterApp/Network/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35">
+               </Location>
+               <Location
+                  uuid = "C289D02E-E1E4-40E6-9798-4BE04AD35ED5 - adb37b7946140305"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for RickAndMortyCharacterApp.APIClient.send&lt;&#x3c4;_0_0 where &#x3c4;_0_0: RickAndMortyCharacterApp.APIRequest&gt;(&#x3c4;_0_0) async throws -&gt; &#x3c4;_0_0.Response"
+                  moduleName = "RickAndMortyCharacterApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Hasan/RickAndMortyCharacterApp/RickAndMortyCharacterApp/Network/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
